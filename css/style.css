@@ -5,22 +5,22 @@ body
 {
 	margin: 0;
 	padding: 0;
-	background-color: #BA6466;
+	background-color:#C39E31;
 }
 
 #main
 {
 	margin: 0;
 	padding: 0;
-	background-color: #7E7D7D;
+	background-color: #C39E31;
 	
 }
 
 #content
 {
 	width: 720px;
-	height: 900px;
-	background-color: #224F95;
+	height: 9000px;
+	background-color:#896E00;
 	margin: 0 auto;
 }
 
